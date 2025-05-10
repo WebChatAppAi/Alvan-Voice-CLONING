@@ -48,7 +48,7 @@ Before you can use the Alvan Voice Cloning web interface, you need to set up the
 
 3. **Start the RVC API Server**:
    ```bash
-   python server.py
+   python -m rvc_python api -p 5050 -l
    ```
    The API server will run at `http://localhost:5050` by default.
 
