@@ -56,7 +56,7 @@ Before you can use the Alvan Voice Cloning web interface, you need to set up the
 
 1. **Clone the Repository**:
    ```bash
-   git clone (https://github.com/WebChatAppAi/Alvan-Voice-CLONING)
+   git clone https://github.com/WebChatAppAi/Alvan-Voice-CLONING
    cd alvan-voice-cloning
    ```
 
